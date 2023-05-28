@@ -81,19 +81,19 @@ const Navbar = () => {
             </ul>
 
             <div className="pt-40">
-              <p className="uppercase tracking-widest text-[#0a66c2]">Let's Connect</p>
+              <p className="uppercase tracking-widest text-[#8e3080]">Let's Connect</p>
 
               <div className="flex items-center justify-between my-4 w-full sm:w-[80%]">
-                <div className="rounded-full shadow-lg shasow-gray-400 p-3 cursor-pointer hover::scale=105 ease-in duraion">
+                <div className="rounded-full shadow-lg shasow-gray-400 p-3 cursor-pointer hover::scale=105 ease-in duration-300">
                   <FaLinkedinIn />
                 </div>
-                <div className="rounded-full shadow-lg shasow-gray-400 p-3 cursor-pointer hover::scale=105 ease-in duraion">
+                <div className="rounded-full shadow-lg shasow-gray-400 p-3 cursor-pointer hover::scale=105 ease-in duration-300">
                   <FaGithub />
                 </div>
-                <div className="rounded-full shadow-lg shasow-gray-400 p-3 cursor-pointer hover::scale=105 ease-in duraion">
+                <div className="rounded-full shadow-lg shasow-gray-400 p-3 cursor-pointer hover::scale=105 ease-in duration-300">
                   <AiOutlineMail />
                 </div>
-                <div className="rounded-full shadow-lg shasow-gray-400 p-3 cursor-pointer hover::scale=105 ease-in duraion">
+                <div className="rounded-full shadow-lg shasow-gray-400 p-3 cursor-pointer hover::scale=105 ease-in duration-300">
                   <BsFillPersonLinesFill />
                 </div>
               </div>
