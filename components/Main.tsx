@@ -15,7 +15,7 @@ function Main() {
           <h1 className="py-4 text-gray-700">A Front-End Web Developer</h1>
           <p className="py-4 text-gray-600 max-w-[70%] m-auto">
             I'm a front-end web developer specializing in crafting captivating web experiences. From bringing ideas to life
-            through visually stunning and intuitive user interfaces to creating seamless and engaging digital jourrneys.
+            through visually stunning and intuitive user interfaces to creating seamless and engaging digital journeys.
             Currently, I’m focused on building responsive front-end web applications integrating back-end technologies.
             Let's collaborate and transform your ideas into pixel-perfect reality!
           </p>
